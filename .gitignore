@@ -396,3 +396,19 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Rider
+.idea/
+*.sln.iml
+*.ipr
+*.iws
+
+# Resharper
+_ReSharper*/
+*.resharper
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio Code
+.vscode/
